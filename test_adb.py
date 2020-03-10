@@ -7,3 +7,4 @@ elif a is int:
   print('222222222')
 else:
   print('数据错误')
+  print('222222222')
