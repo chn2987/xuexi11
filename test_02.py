@@ -14,6 +14,9 @@ if isinstance(a,str):
 	    print('字符串全部是数字')
 elif isinstance(a,int):
     print('变量a的类型为int')
+<<<<<<< HEAD
     print('变量a的22222t')
+=======
+>>>>>>> origin/chen_test
 
 
